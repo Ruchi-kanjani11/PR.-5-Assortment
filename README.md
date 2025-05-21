@@ -1,5 +1,8 @@
 # PR.-5-Assortment
 Output 1:-
 ![Screenshot 2025-05-21 123337](https://github.com/user-attachments/assets/0cf3b5df-516d-4392-8aec-b538c4350483)
+Output 2:-
+![Screenshot 2025-05-21 123458](https://github.com/user-attachments/assets/1e3c18d5-92ae-457d-9e0c-f5000e469593)
+
 
 
